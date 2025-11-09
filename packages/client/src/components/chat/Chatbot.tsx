@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 import axios from 'axios';
-import TypingIndicator from './typingIndicator';
+import TypingIndicator from './TypingIndicator';
 import type { Message } from './ChatMessages';
 import ChatMessages from './ChatMessages';
 import ChatInput, { type ChatFormData } from './ChatInput';
